@@ -1,12 +1,23 @@
-# 💫 About_Me.json
+<h1 align="center">🚀 Hey, I'm Animesh Singh</h1>
+<h3 align="center">⚡ Flutter Developer | DSA Learner | Building Scalable Systems</h3>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</div>
+
+---
+
+## 💫 About Me
 
 ```yaml
-{
-  Development :  Android developer in flutter
-  Learning    :  Learning dsa and react for better UX
-  Algorithm   :  DSA 100+ Q solved
-  Achivements :  2 internships done
-}
+Role        : Android Developer (Flutter)
+Focus       : Scalable Apps + Clean UI/UX
+Learning    : DSA + React (Frontend Systems Thinking)
+Progress    : 100+ DSA Problems Solved
+Experience  : 2 Internships Completed
+Mindset     : Build → Break → Optimize → Scale
 ```
 
 ## 🌐 Socials:
@@ -18,9 +29,10 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Xenon506&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Xenon506&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Xenon506&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=Xenon506&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=Xenon506&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Xenon506&layout=compact&theme=tokyonight&hide_border=true"/> 
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Xenon506&theme=radical&no-frame=false&no-bg=true&margin-w=4)
