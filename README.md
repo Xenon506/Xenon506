@@ -60,5 +60,5 @@ Mindset     : Build → Break → Optimize → Scale
 
 <div align="center">
   
-Made with ❤️ by [ElonCoding](https://github.com/ElonCoding)
+### Made with ❤️ by [ElonCoding](https://github.com/ElonCoding)
 </div>
